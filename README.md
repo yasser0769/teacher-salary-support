@@ -1,6 +1,6 @@
-# سلم المعلمين — الدعم والخصوصية
+# سلم رواتب المعلمين — الدعم والخصوصية
 
-صفحات عامة مستقلة لدعم تطبيق سلم المعلمين، دون ملفات التطبيق أو بيانات خاصة.
+صفحات عامة مستقلة لدعم تطبيق سلم رواتب المعلمين، دون ملفات التطبيق أو بيانات خاصة.
 
 - Privacy Policy: https://yasser0769.github.io/teacher-salary-support/privacy.html
 - Support: https://yasser0769.github.io/teacher-salary-support/support.html
